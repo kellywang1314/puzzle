@@ -2,6 +2,7 @@ var time = 0;
 //保存定时时间
 var set_timer;
 //设置定时函数
+let codecode;
 var d = new Array(10);
 //保存大DIV当前装的小DIV的编号
 var d_direct = new Array(
